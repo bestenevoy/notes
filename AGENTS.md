@@ -3,3 +3,4 @@
 具体格式请参考：
 1. https://zensical.org/docs/authoring/markdown/
 2. https://zensical.org/docs/setup/basics/
+相关语法可参考：./docs/zensical

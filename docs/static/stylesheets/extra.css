@@ -1,0 +1,11 @@
+/* 全局所有代码块限制最大高度，超出垂直滚动 */
+.md-typeset pre {
+    max-height: 400px;    /* 自定义最大高度，推荐300~500px */
+    overflow-y: auto;     /* 内容超长才显示滚动条 */
+    overflow-x: auto;     /* 长代码自动横向滚动，防止挤坏布局 */
+}
+
+/* 可选：复制按钮工具栏适配，避免遮挡滚动条 */
+.md-typeset .code-toolbar {
+    padding-top: 0.2rem;
+}

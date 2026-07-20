@@ -1,6 +1,6 @@
 ---
 tags:
- - Hullucination
+ - Hallucination
 ---
 
 # LLM 工具调用幻觉：表现、成因、措施

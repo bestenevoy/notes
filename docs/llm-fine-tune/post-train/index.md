@@ -1,3 +1,3 @@
-# post-training 后训练
+# 后训练
 
 模型完成预训练（pretrain）之后的全部微调流程，包含 SFT 监督微调、RL 强化学习、RLVR 推理强化等。
